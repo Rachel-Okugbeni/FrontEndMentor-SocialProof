@@ -2,7 +2,7 @@
 body {
   font-family: Spartan, sans-serif;
   font-size: 15px;
-  margin: 10px;
+  margin: 20px 10px;
   padding: 20px;
   text-align: center;
   -webkit-box-sizing: border-box;
@@ -32,6 +32,7 @@ body {
 
 h1 {
   color: #502050;
+  font-weight: 700;
 }
 
 .about {
@@ -42,7 +43,7 @@ h1 {
   background-color: #f7f2f7;
   color: #502050;
   font-weight: 700;
-  padding: 20px;
+  padding: 15px;
   margin: 20px;
   border-radius: 5px;
 }
@@ -115,13 +116,13 @@ h1 {
     display: inline;
   }
   .ratings #block1 {
-    margin-left: 100px;
+    margin-left: 110px;
   }
   .ratings #block2 {
-    margin-left: 150px;
+    margin-left: 160px;
   }
   .ratings #block3 {
-    margin-left: 200px;
+    margin-left: 210px;
   }
   .reviews {
     margin-right: 20px;
@@ -129,9 +130,9 @@ h1 {
     height: 150px;
   }
   #irene {
-    margin-top: 50px;
+    margin-top: 25px;
   }
   #anne {
-    margin-top: 100px;
+    margin-top: 50px;
   }
 }
