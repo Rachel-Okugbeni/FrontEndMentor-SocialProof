@@ -43,9 +43,10 @@ h1 {
     background-color: $gray-magenta-light;
     color: $dark-magenta;
     font-weight: 700;
-    padding: 15px;
+    padding: 10px;
     margin: 20px;
     border-radius: 5px;
+    font-size: 0.8rem;
     .stars {
         margin: 5px;
     }
@@ -95,6 +96,7 @@ h1 {
     .ratings {
         width: 45vw;
         align-items: center;
+        padding: 20px;
         .rating-block {
             width: 55%;
             .stars {
@@ -117,10 +119,10 @@ h1 {
         height: 150px;
     }
     #irene {
-        margin-top: 25px;
+        margin-top: 20px;
     }
     #anne {
-        margin-top: 50px;
+        margin-top: 40px;
     }
 }
 
